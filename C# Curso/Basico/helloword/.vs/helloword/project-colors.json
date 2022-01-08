@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27fb63af-f1f7-4e36-be79-8b22898a7100": {
+      "ProjectGuid": "27fb63af-f1f7-4e36-be79-8b22898a7100",
+      "DisplayName": "helloword",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
