@@ -1,0 +1,15 @@
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\bin\Debug\net6.0\arreglos.exe
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\bin\Debug\net6.0\arreglos.deps.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\bin\Debug\net6.0\arreglos.runtimeconfig.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\bin\Debug\net6.0\arreglos.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\bin\Debug\net6.0\ref\arreglos.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\bin\Debug\net6.0\arreglos.pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.csproj.AssemblyReference.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfo.cs
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\ref\arreglos.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\arreglos\arreglos\obj\Debug\net6.0\arreglos.genruntimeconfig.cache

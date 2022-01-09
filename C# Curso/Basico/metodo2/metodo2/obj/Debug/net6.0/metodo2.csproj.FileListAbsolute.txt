@@ -1,0 +1,15 @@
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\bin\Debug\net6.0\metodo2.exe
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\bin\Debug\net6.0\metodo2.deps.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\bin\Debug\net6.0\metodo2.runtimeconfig.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\bin\Debug\net6.0\metodo2.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\bin\Debug\net6.0\ref\metodo2.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\bin\Debug\net6.0\metodo2.pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.AssemblyInfo.cs
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\ref\metodo2.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.genruntimeconfig.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\metodo2\metodo2\obj\Debug\net6.0\metodo2.csproj.AssemblyReference.cache

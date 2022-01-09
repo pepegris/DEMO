@@ -1,0 +1,15 @@
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\bin\Debug\net6.0\Methods (funciones).exe
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\bin\Debug\net6.0\Methods (funciones).deps.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\bin\Debug\net6.0\Methods (funciones).runtimeconfig.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\bin\Debug\net6.0\Methods (funciones).dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\bin\Debug\net6.0\ref\Methods (funciones).dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\bin\Debug\net6.0\Methods (funciones).pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).csproj.AssemblyReference.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).AssemblyInfoInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).AssemblyInfo.cs
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\ref\Methods (funciones).dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\Methods (funciones)\Methods (funciones)\obj\Debug\net6.0\Methods (funciones).genruntimeconfig.cache

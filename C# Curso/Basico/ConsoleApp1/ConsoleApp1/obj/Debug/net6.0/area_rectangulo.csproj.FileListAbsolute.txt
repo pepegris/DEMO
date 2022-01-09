@@ -1,0 +1,15 @@
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\area_rectangulo.exe
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\area_rectangulo.deps.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\area_rectangulo.runtimeconfig.json
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\area_rectangulo.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\area_rectangulo.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\area_rectangulo.pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.AssemblyInfoInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.AssemblyInfo.cs
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\area_rectangulo.dll
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.genruntimeconfig.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\area_rectangulo.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\bin\Debug\variable.exe.config
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\bin\Debug\variable.exe
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\bin\Debug\variable.pdb
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\obj\Debug\variable.csproj.AssemblyReference.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\obj\Debug\variable.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\obj\Debug\variable.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\obj\Debug\variable.exe
+C:\xampp\htdocs\PLATZI\C# Curso\Basico\variable\variable\obj\Debug\variable.pdb
