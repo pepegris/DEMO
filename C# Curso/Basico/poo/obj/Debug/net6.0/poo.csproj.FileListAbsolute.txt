@@ -1,0 +1,15 @@
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/bin/Debug/net6.0/poo
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/bin/Debug/net6.0/poo.deps.json
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/bin/Debug/net6.0/poo.runtimeconfig.json
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/bin/Debug/net6.0/poo.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/bin/Debug/net6.0/ref/poo.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/bin/Debug/net6.0/poo.pdb
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.csproj.AssemblyReference.cache
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.AssemblyInfoInputs.cache
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.AssemblyInfo.cs
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.csproj.CoreCompileInputs.cache
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/ref/poo.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.pdb
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/poo/obj/Debug/net6.0/poo.genruntimeconfig.cache
