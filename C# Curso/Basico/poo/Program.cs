@@ -7,14 +7,14 @@ Circulo miCirculo; // creacion de objeto tipo circulo, variable/objeto
 miCirculo=new Circulo(); // instaciar una clase de variable objetio tipo ciruclo
 
 Console.WriteLine("introduce el valor para calcular el area del CIRCULO1");
-int numero=int.Parse(Console.ReadLine());
+int numero=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"el area del circulo es {miCirculo.area(numero)}");
 
 // segunda intancia
 Circulo miCirculo2=new Circulo();
 
 Console.WriteLine("introduce el valor para calcular el area CIRCULO2");
-int numero2=int.Parse(Console.ReadLine());
+int numero2=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"el area del circulo es {miCirculo2.area(numero2)}");
 
 class Circulo
