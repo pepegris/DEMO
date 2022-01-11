@@ -1,0 +1,15 @@
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/bin/Debug/net6.0/excepciones
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/bin/Debug/net6.0/excepciones.deps.json
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/bin/Debug/net6.0/excepciones.runtimeconfig.json
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/bin/Debug/net6.0/excepciones.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/bin/Debug/net6.0/ref/excepciones.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/bin/Debug/net6.0/excepciones.pdb
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.csproj.AssemblyReference.cache
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.AssemblyInfoInputs.cache
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.AssemblyInfo.cs
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.csproj.CoreCompileInputs.cache
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/ref/excepciones.dll
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.pdb
+/home/andres_salcedo/Documentos/GitHub/PLATZI/C# Curso/Basico/excepciones/obj/Debug/net6.0/excepciones.genruntimeconfig.cache
