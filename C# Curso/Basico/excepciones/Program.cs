@@ -1,7 +1,7 @@
-﻿using Internal;
+﻿//using Internal;
 using System;
 // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Excepciones");
+Console.WriteLine("Excepciones \n");
 
 
 Random numero = new Random();
@@ -14,7 +14,31 @@ Console.WriteLine("Introduce un numero entre 0 y 10");
 
 do{
     intentos++;
-    mi_numero=int.Parse(Console.ReadLine());
+    
+    //excepcion intenta ejecutar
+
+    try {
+
+        mi_numero=int.Parse(Console.ReadLine());
+
+    //PADRE DE LAS EXCEPCIONES
+    }catch(Exception e){
+        //e.Message (captura el mensaje de error y lo muestra)
+        Console.WriteLine($"Por favor introduzca un Numero Valido \n {e.Message}\n");
+        mi_numero=0;
+    }
+    
+    //HIJO DE LAS EXCEPCIONES O HERENCIA
+    /*catch(FormatException ex){
+
+        Console.WriteLine("Por favor introduzca un Numero");
+        mi_numero=0;
+    }catch(OverflowException ex){
+        Console.WriteLine("Por Favor introduzca un Numero mas pequeño entre 0 y 10");
+        mi_numero=0;
+    }*/
+
+    //continua si introduce un numero
 
     if (mi_numero > aleatorio)
     {
@@ -24,5 +48,14 @@ do{
     {
         Console.WriteLine("el numero es mas alto");
     }
-}
+
+}while (aleatorio!=mi_numero);
+
+     {
+         Console.WriteLine($"Correcto has necesitado {intentos} intentos");
+     }
+
+Console.WriteLine("continuara la prueba");
+
+
 
