@@ -1,0 +1,15 @@
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\bin\Debug\net6.0\POO.exe
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\bin\Debug\net6.0\POO.deps.json
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\bin\Debug\net6.0\POO.runtimeconfig.json
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\bin\Debug\net6.0\POO.dll
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\bin\Debug\net6.0\ref\POO.dll
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\bin\Debug\net6.0\POO.pdb
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.csproj.AssemblyReference.cache
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.AssemblyInfoInputs.cache
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.AssemblyInfo.cs
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.dll
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\ref\POO.dll
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.pdb
+C:\Users\andres.salcedo\Documents\GitHub\PLATZI\C# Curso\Basico\POO2\POO\POO\obj\Debug\net6.0\POO.genruntimeconfig.cache
