@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj": {}
+    "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj": {
+    "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj",
-        "packagesPath": "C:\\Users\\andres.salcedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\obj\\",
+        "projectPath": "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\POO.csproj",
+        "packagesPath": "C:\\Users\\salce\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\POO\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andres.salcedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\salce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

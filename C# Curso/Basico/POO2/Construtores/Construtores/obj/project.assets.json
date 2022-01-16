@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andres.salcedo\\.nuget\\packages\\": {}
+    "C:\\Users\\salce\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\Construtores\\Construtores\\Construtores.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\Construtores\\Construtores\\Construtores.csproj",
       "projectName": "Construtores",
-      "projectPath": "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\Construtores\\Construtores\\Construtores.csproj",
-      "packagesPath": "C:\\Users\\andres.salcedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andres.salcedo\\Documents\\GitHub\\PLATZI\\C# Curso\\Basico\\POO2\\Construtores\\Construtores\\obj\\",
+      "projectPath": "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\Construtores\\Construtores\\Construtores.csproj",
+      "packagesPath": "C:\\Users\\salce\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\PLATZI\\C# Curso\\Basico\\POO2\\Construtores\\Construtores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andres.salcedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\salce\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
