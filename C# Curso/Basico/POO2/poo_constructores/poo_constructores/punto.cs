@@ -9,5 +9,11 @@ public class Punto
 		Console.WriteLine($"Coordenada de X: {x}, Coordenada y: {y}");
 
 	}
+	public Punto()
+	{
+
+		Console.WriteLine($"Sin intruccion");
+
+	}
 
 }

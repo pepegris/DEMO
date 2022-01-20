@@ -1,16 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Contructores");
+realizar_tarea();
 
 static void realizar_tarea()
 {
 
-    // TODO:
+    Punto origen = new Punto(1,2);
 
 
 }
 
-class calculadora
-    {
-        
-
-    }
