@@ -1,7 +1,9 @@
+from ensurepip import bootstrap
 from flask import Flask , request ,make_response ,redirect , render_template
+from flask_bootstrap import Bootstrap
 
 app = Flask(__name__)
-
+bootstrap = Bootstrap(app)
 
 todos=['Compras Cafe' , 'Enviar Solicitud' , 'Comprar Pastel' , 'Comprar Pan']
 
