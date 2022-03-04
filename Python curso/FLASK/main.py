@@ -9,7 +9,7 @@ todos=['Compras Cafe' , 'Enviar Solicitud' , 'Comprar Pastel' , 'Comprar Pan']
 def index():
     user_ip=request.remote_addr
     response=make_response(redirect('/hello'))
-    response.set_cookie('user_ip', **user_ip)
+    response.set_cookie('user_ip',user_ip)
 
     return response
 
