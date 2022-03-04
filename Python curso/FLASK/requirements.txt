@@ -1,8 +1,17 @@
+asgiref==3.5.0
 click==8.0.4
 colorama==0.4.4
+Django==4.0.3
+dominate==2.6.0
 Flask==2.0.3
+Flask-Bootstrap==3.3.7.1
 itsdangerous==2.1.0
 Jinja2==3.0.3
 MarkupSafe==2.1.0
+mysql-connector-python==8.0.28
+protobuf==3.19.4
 pyodbc==4.0.32
+sqlparse==0.4.2
+tzdata==2021.5
+visitor==0.1.3
 Werkzeug==2.0.3
