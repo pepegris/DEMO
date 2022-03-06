@@ -1,6 +1,6 @@
-{% extends 'base.html'  %}
+{% extends 'base.html' %}
 {% import 'import/macros.html' as macros %}
-{% import 'bootstrap/wtf.html' as wtf  %}
+{% import 'bootstrap/wtf.html' as wtf %}
 
 {% block title %}
 {{ super()}}
@@ -10,7 +10,7 @@ Hello{% endblock %}
 
 {% if username %}
 
-    <h1>Bienvenido, {{username}}</h1>
+<h1>Bienvenido, {{username}}</h1>
 
 {% endif %}
 
@@ -18,26 +18,26 @@ Hello{% endblock %}
 {% if user_ip %}
 <h1>Hello este es tu IP {{ user_ip }}</h1>
 {% else %}
-    <a href="{{ url_for('index') }}">Ir a inicio</a>
+<a href="{{ url_for('index') }}">Ir a inicio</a>
 {% endif %}
 
 <h4>Tareas</h4>
 <ul>
     {% for i in todos %}
-        {{ macros.render(i) }}
+    {{ macros.render(i) }}
     {% endfor %}
 </ul>
 
 
 <div class="container">
- <!-- FORMULARIO CON WTF  -->   
-<!--  {{ wtf.quick_form(
+    <!-- FORMULARIO CON WTF  -->
+    <!--  {{ wtf.quick_form(
     login_form,
     button_map={'submit': 'btn btn-success'}
     ) }} -->
     <hr>
-<!-- FORMULARIO MAS "COMUN" -->
-    <form action="{{ url_for('hello') }}" class="m-auto w-25"  method="post">
+    <!-- FORMULARIO MAS "COMUN" -->
+    <form action="{{ url_for('hello') }}" class="m-auto w-25" method="post">
         <!-- esto es necesario -->
         {{ login_form.csrf_token }}
         <div class="form-group">
@@ -55,5 +55,4 @@ Hello{% endblock %}
 </div>
 
 
-    {% endblock %}
-
+{% endblock %}

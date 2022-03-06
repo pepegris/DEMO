@@ -1,16 +1,18 @@
 from ensurepip import bootstrap
-from flask import Flask , request ,make_response ,redirect , render_template ,session, url_for
+from flask import Flask , request ,make_response ,redirect , render_template ,session, url_for,flash
 from flask_bootstrap import Bootstrap
 from flask_wtf import FlaskForm
 from wtforms.fields import StringField , PasswordField ,SubmitField
 from wtforms.validators import DataRequired
+import unittest
 
 app = Flask(__name__)
 #configurar FLASK al ejecutar
 app.config.update(
     DEBUG=True,
     ENV='development',
-    SECRET_KEY='CONFIG UPDATE'
+    SECRET_KEY='CONFIG UPDATE',
+    TESTING=True
 )
 #app.config['SECRET_KEY'] = 'SUPER SECRETO'
 
@@ -45,6 +47,9 @@ def hello():
         username=username.lower()
         username=username.title()
         session['username']=username
+
+        flash (f'Usuario Registrado con exito | {username} ')
+
         response=make_response(redirect('/recibido'))
         return response
 
@@ -81,6 +86,14 @@ class Login_form (FlaskForm):
     username= StringField('Nombre del usuario' , validators=[DataRequired()] )
     password = PasswordField('Clave del usuario', validators=[DataRequired()])
     submit = SubmitField('Enviar')
+
+
+
+# @app.cli.command()
+# def test():
+#     tests=unittest.TestLoader().discover(('tests'))
+#     unittest.TextTestRunner().run(tests)
+
 
 
 
