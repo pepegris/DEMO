@@ -1,22 +1,29 @@
 from ensurepip import bootstrap
+from venv import create
 from flask import Flask , request ,make_response ,redirect , render_template ,session, url_for,flash
-from flask_bootstrap import Bootstrap
-from flask_wtf import FlaskForm
-from wtforms.fields import StringField , PasswordField ,SubmitField
-from wtforms.validators import DataRequired
+# from flask_bootstrap import Bootstrap
+# from flask_wtf import FlaskForm
+# from wtforms.fields import StringField , PasswordField ,SubmitField
+# from wtforms.validators import DataRequired
 import unittest
 
-app = Flask(__name__)
-#configurar FLASK al ejecutar
-app.config.update(
-    DEBUG=True,
-    ENV='development',
-    SECRET_KEY='CONFIG UPDATE',
-    TESTING=True
-)
-#app.config['SECRET_KEY'] = 'SUPER SECRETO'
+from app.create import create_app 
+from app.forms import Login_form
 
-bootstrap = Bootstrap(app)
+
+app = create_app()
+
+# app = Flask(__name__)
+# #configurar FLASK al ejecutar
+# app.config.update(
+#     DEBUG=True,
+#     ENV='development',
+#     SECRET_KEY='CONFIG UPDATE',
+#     TESTING=True
+# )
+# #app.config['SECRET_KEY'] = 'SUPER SECRETO'
+
+# bootstrap = Bootstrap(app)
 
 todos=['Compras Cafe' , 'Enviar Solicitud' , 'Comprar Pastel' , 'Comprar Pan']
 
@@ -80,12 +87,7 @@ def recibido():
 
         
 
-#flask form clase
 
-class Login_form (FlaskForm):
-    username= StringField('Nombre del usuario' , validators=[DataRequired()] )
-    password = PasswordField('Clave del usuario', validators=[DataRequired()])
-    submit = SubmitField('Enviar')
 
 
 
