@@ -1,5 +1,0 @@
-
-#probando
-print ("hello word")
-
-
